@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BahmanApp
-- 👀 I’m interested in PHP & Java Script
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in PHP & Java Script & Node.JS
 - 💞️ I’m looking to collaborate on Javascript & PHP & HTML & CSS & Laravel & React & React Native 
 - 📫 How to reach me bahman.neekooee@gmail.com
 
